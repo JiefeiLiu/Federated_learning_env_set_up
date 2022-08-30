@@ -49,8 +49,8 @@ You might also need install another related libraries: <br/>
 ```
 
 > requirements.txt contains all libraries with versions, it might not contains the newest verion for all the libraries
-if you want to directly install all the libraries, under your conda environment run 
-```pip install -r requirements.txt```
+if you want to directly install all the libraries, run 
+```pip install -r requirements.txt``` after step 8.
 
 
 ## Another useful commonds
