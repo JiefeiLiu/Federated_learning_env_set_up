@@ -3,13 +3,13 @@ This is a tutorial to set up an environment on CS machine
 
 ## Install Anaconda on CS machine, if you already installed Anaconda please skip step 1~3
 1. You can download either download Anaconda or miniconda <br/>
-```wget http://repo.continuum.io/archive/Anaconda3-4.0.0-Linux-x86_64.sh```
+```wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh```
 
 2. Find your download file and install by using following command <br/>
-```bash Anaconda3-4.0.0-Linux-x86_64.sh```
+```bash Miniconda3-latest-Linux-x86_64.sh```
 
-3. Add anaconda path into system <br/>
-```export PATH=/home/hchen/anaconda3/bin:$PATH```
+3. Add anaconda path into system, find the path of your conda bin file and export the path <br/>
+```export PATH=/home/jliu/miniconda3/bin:$PATH```
 If it does not work you needs to add previous command into .bashrc and restart your terminal. 
 
 ###### Put Anaconda into back_up folder 
