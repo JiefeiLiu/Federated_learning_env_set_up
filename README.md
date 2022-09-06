@@ -9,7 +9,7 @@ This is a tutorial to set up an environment on CS machine
 ```bash Miniconda3-latest-Linux-x86_64.sh```
 
 3. Add anaconda path into system, find the path of your conda bin file and export the path <br/>
-```export PATH=/home/jliu/miniconda3/bin:$PATH```
+```export PATH=/home/jliu/miniconda3/bin:$PATH```<br/>
 If it does not work you needs to add previous command into .bashrc and restart your terminal. 
 
 ###### Put Anaconda into back_up folder 
