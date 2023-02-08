@@ -36,7 +36,7 @@ If it does not work you needs to add previous command into .bashrc and restart y
 ```conda install python=3.9```<br/>
 
 To install newest pytorch version please visit [PyTorch](https://pytorch.org/)<br/>
-```conda install pytorch torchvision torchaudio cudatoolkit=11.6 -c pytorch -c conda-forge```<br/>
+```conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia```<br/>
 
 To insall flowers for **federated learning** virtual netwrok please visit [flower](https://flower.dev/docs/installation.html)<br/>
 ```python -m pip install flwr```<br/>
