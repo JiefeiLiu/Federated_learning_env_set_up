@@ -43,7 +43,7 @@ To insall flowers for **federated learning** virtual netwrok please visit [flowe
 
 You might also need install another related libraries: <br/>
 ```
-   pip install sklearn
+   pip install scikit-learn
    pip install numpy 
    pip install pandas
 ```
